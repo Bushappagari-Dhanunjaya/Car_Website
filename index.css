@@ -10,7 +10,7 @@ body {
 }
 
 .home-body-container {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9)), url('images/c3.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9)), url('c3.jpg');
     height: 100vh;
 
 }
@@ -190,40 +190,40 @@ h2 {
 }
 
 .service:nth-child(1) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_mechanical_service.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_mechanical_service.jpg');
 
 }
 
 .service:nth-child(2) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_paint.avif');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_paint.avif');
 }
 
 .service:nth-child(3) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_electrical.avif');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_electrical.avif');
 }
 
 .service:nth-child(4) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_emission.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_emission.jpg');
 }
 
 .service:nth-child(5) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_tyre.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_tyre.jpg');
 }
 
 .service:nth-child(6) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/HVAC.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('HVAC.jpg');
 }
 
 .service:nth-child(7) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_transport.avif');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_transport.avif');
 }
 
 .service:nth-child(8) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_collision.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_collision.jpg');
 }
 
 .service:nth-child(9) {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('images/car_recycling.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3)80%), url('car_recycling.jpg');
 }
 
 .car-service-container {
@@ -234,7 +234,7 @@ h2 {
     padding: 40px;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/cc6.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(cc6.avif);
     background-size: cover;
     /* new> */
 
